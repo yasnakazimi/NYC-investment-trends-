@@ -1,4 +1,4 @@
-# NYC-investment-trends-R
+# NYC-Funding-trends-R
 Startup Funding Analysis – New York City
 
 This project explores the relationship between startup funding, industry sector, and success outcomes within New York City’s vibrant startup ecosystem. Using a real-world dataset of investment records, the analysis examines how funding amounts and rounds relate to whether startups become acquired, remain operating, or close down.
